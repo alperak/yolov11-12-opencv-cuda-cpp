@@ -17,7 +17,7 @@ int main()
         // Open camera device
         // Your camera device id may be different so use 'v4l2-ctl --list-devices' on terminal
         // and update it to 1 or what ever available for you.
-        cv::VideoCapture cap(1);
+        cv::VideoCapture cap(0);
         if (cap.isOpened()) {
             // Print camera resolution and FPS
             std::cout << "Camera Width: " << cap.get(cv::CAP_PROP_FRAME_WIDTH) << " - "
