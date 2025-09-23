@@ -20,7 +20,7 @@ The focus is on clarity and educational value.
 
 A demo captured using **YOLOV11x**:
 
-![demo](https://github.com/user-attachments/assets/e603bda8-6aa5-4409-ae38-a81b15cdbad7)
+![demo](https://github.com/user-attachments/assets/c699fb75-44f8-403e-9a26-0f46b1a9d10f)
 
 ### Tested Environment
 
